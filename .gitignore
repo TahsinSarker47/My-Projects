@@ -1,0 +1,25 @@
+# Ignore build directories
+build/
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+task-cli
+CPP-Projects/TaskTrackerCLI/build/Makefile
+CPP-Projects/TaskTrackerCLI/build/task-cli
+CPP-Projects/TaskTrackerCLI/build/cmake_install.cmake
+CPP-Projects/TaskTrackerCLI/build/CMakeCache.txt
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/CMakeConfigureLog.yaml
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/CMakeDirectoryInformation.cmake
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/Makefile.cmake
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/Makefile2
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/TargetDirectories.txt
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/build.make
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/DependInfo.cmake
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/compiler_depend.make
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/flags.make
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/link.txt
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/progress.make
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/src/main.cpp.o
+CPP-Projects/TaskTrackerCLI/build/CMakeFiles/task-cli.dir/src/TaskTracker.cpp.o
+CPP-Projects/TaskTrackerCLI/build/tasks.json
