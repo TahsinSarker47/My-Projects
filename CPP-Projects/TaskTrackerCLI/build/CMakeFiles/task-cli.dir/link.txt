@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O0 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wl,--dependency-file=CMakeFiles/task-cli.dir/link.d "CMakeFiles/task-cli.dir/src/main.cpp.o" "CMakeFiles/task-cli.dir/src/Task.cpp.o" "CMakeFiles/task-cli.dir/src/TaskTracker.cpp.o" -o task-cli
